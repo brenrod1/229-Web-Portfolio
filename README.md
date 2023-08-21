@@ -1,5 +1,5 @@
 # 229-Web-Portfolio
 
-class.html
+index.html
 
 ### Final for IT 229
